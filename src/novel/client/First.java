@@ -50,7 +50,7 @@ public class First extends Draw {
 			return;
 		draw(g);
 	}
-
+	
 	@Override
 	public void draw(Graphics g) {
 		// 绘图区域的宽度和高度
